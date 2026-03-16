@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "excalidraw": {
+      "command": "node",
+      "args": [
+        "/Users/erikgunawansupriatna/.npm/_npx/1149d391a9f6528a/node_modules/mcp-excalidraw-server/src/index.js"
+      ],
+      "env": {
+        "EXPRESS_SERVER_URL": "http://localhost:3000"
+      }
+    }
+  }
+}

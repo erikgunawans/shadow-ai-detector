@@ -1,0 +1,22 @@
+# Intermediates - always regenerated
+.tmp/
+
+# Environment and credentials
+.env
+credentials.json
+token.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Claude worktrees
+.claude/worktrees/
